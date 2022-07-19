@@ -1,12 +1,4 @@
 
-
-
-
-<p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/89092770?v=4" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
 ### Hi there 👋 I'm [Francisco Javier Saldivar Rubio](https://anandmainali.com.np)
 > Software Engineer at [Ualá]([https://softnep.com](https://www.uala-abc.com.mx/))
 
