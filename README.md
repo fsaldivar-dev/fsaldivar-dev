@@ -8,16 +8,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about get started coding iOS and structure project
 - 📫 How to reach me: fsaldivar.dev@gmail.com
-- ⚡ Fun fact: ...
-
-
-<div>
- <p>
-I am a mobile developer capable of building apps from scratch, using design patterns focused on scalability and modularity.
-
-I have excellent design and coding skills, as well as the ability to turn requirements into exciting applications.
-</p>
-</div>
 
 - 🦸 My inspiration to write open source: ...
 
