@@ -1,6 +1,5 @@
 
-### Hi there 👋 I'm [Francisco Javier Saldivar Rubio](https://www.linkedin.com/in/javier-saldivar-86a3b390/)
-> Software Engineer at [Ualá]([https://softnep.com](https://www.uala-abc.com.mx/))
+### Hi there 👋 I'm [Francis Saldivar]
 
 - 🔭 I’m currently working on Ualá for iOS Developer
 - 🌱 I'm currently learning SwiftUI and designing patterns based on components
